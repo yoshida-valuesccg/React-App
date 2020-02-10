@@ -11,7 +11,7 @@ npm i
 npm start
 
 # express 起動
-cd ../backend
+cd backend
 npm i
 npm start
 ```
